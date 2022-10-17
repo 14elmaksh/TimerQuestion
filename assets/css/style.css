@@ -1,0 +1,10 @@
+#home {
+    background-color: #ff5722;
+    color: yellow;
+    width: 70%;
+    height: 220px;
+    margin: 15px;
+    border: 10px #8bc34a;
+    border-style: groove;
+    padding: 5px;
+}
